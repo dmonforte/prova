@@ -1,0 +1,6 @@
+report z_prova_eclipse..
+START-OF-SELECTION.
+
+  WRITE: /1(30) 'ciao, mondo.',
+
+END-OF-SELECTION.
