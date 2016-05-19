@@ -4,4 +4,5 @@ START-OF-SELECTION.
   WRITE: /1(30) 'ciao, mondo.',
          /1(30) 'I am an Abap program'.
         Primo commit.
+        secondo commit con fork
 END-OF-SELECTION.
