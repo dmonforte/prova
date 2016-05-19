@@ -3,5 +3,5 @@ START-OF-SELECTION.
 
   WRITE: /1(30) 'ciao, mondo.',
          /1(30) 'I am an Abap program'.
-
+        Primo commit.
 END-OF-SELECTION.
